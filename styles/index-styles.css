@@ -1,0 +1,9 @@
+h1 {
+    color: black;
+    text-align: center
+}
+div {
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+}
