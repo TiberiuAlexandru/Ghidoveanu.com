@@ -79,13 +79,3 @@ nav a:hover::before{
     bottom: 20px;
     text-align: center;
 }
-
-#white-hoodie{
-    float: left;
-    padding-left: 40px;
-}
-
-#black-hoodie{
-    float: right;
-    padding-right: 40px;
-}
