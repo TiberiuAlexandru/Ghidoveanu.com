@@ -73,6 +73,16 @@ nav a:hover::before{
     width: 100%;
 }
 
+/*#white-hoodie{*/
+/*float: left;*/
+/*padding-left: 40px;*/
+/*}*/
+
+/*#black-hoodie{*/
+/*float: right;*/
+/*padding-right: 40px;*/
+/*}*/
+
 h1{
     text-align: center;
     background-color: #1b98e0;
@@ -112,6 +122,15 @@ h1{
     color: #1b98e0;
 }
 
+#white-hoodie{
+    float: left;
+    padding-left: 40px;
+}
+
+#black-hoodie{
+    float: right;
+    padding-right: 40px;
+}
 footer{
     text-align: center;
     background-color: #e8f1f2;
